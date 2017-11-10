@@ -1,7 +1,7 @@
 ---
 title: vituralbox 下 配置centos网络
 date: 2017-11-08 14:02:14
-tags:
+tags: [linux, 网络]
 ---
 
 ### 遇到的问题

@@ -1,7 +1,7 @@
 ---
 title: mac下配置LNMP环境
 date: 2017-11-08 14:03:18
-tags:
+tags: [mac, lnmp]
 ---
 
 ### 安装nginx
