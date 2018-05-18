@@ -35,7 +35,7 @@ constructor() {
 
 注意不要给子组件的key设置为index 因为这样并没有解决我们的问题 
 
-详见[react diff 算法](./react-diff-md.md)
+详见[react diff 算法](../react-diff-md)
 
 7. 请把异步请求等side effect 操作 放到componentDidMount中 
 具体原因参考：[客户端请求应该放到什么地方](https://daveceddia.com/where-fetch-data-componentwillmount-vs-componentdidmount/)
