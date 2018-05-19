@@ -93,3 +93,22 @@ tags: [html, css]
 }
 ```
 
+### 行内元素、块级元素、行内块级元素
+|类型|设置宽高是否有效|margin|padding|
+|---|---|---|---|---|
+|行内元素|无效|上下无效，左右有效|有效|
+|行内块级元素|有效|都有效|有效|
+|行内块级元素| 有效|都有效|有效|
+
+
+参考[例子](http://jsrun.net/itZKp)
+
+
+### em rem
+1. em相对单位， 相对于最近设置的font-size的值
+2. rem相对于html上的font-size的值
+
+### css3 开启硬件加速
+使用 translate3d rotate3d rotate3d等属性可以开启GPU 硬件加速
+
+[参考地址](http://blog.teamtreehouse.com/increase-your-sites-performance-with-hardware-accelerated-css)
