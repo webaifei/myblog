@@ -1,6 +1,5 @@
 ---
-title: tags
-date: 2017-11-06 18:38:49
-layout: tags
-comments: false
+title: 标签
+date: 2018-01-05 00:00:00
+type: "tags"
 ---
